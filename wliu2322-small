@@ -1,0 +1,36 @@
+!Title: ADGuardHome_rules_for_myself
+!Version: 01
+!Homepage: 
+!!!note! This rule does not apply to ADGuard.
+!!!This list only applies to "AdGuard Home".
+!Total lines: 36 latest
+
+@@||worldwide.sogou.com^$important
+#允许搜狗输入法加载皮肤界面，不少广告拦截规则会把搜狗输入法的皮肤网络请求屏蔽掉
+@@||ulogs.umengcloud.com^$important
+@@||mssdk-bu.bytedance.com^$important
+@@||ulogs.umeng.com^$important
+@@||tnc3-aliec2.zijieapi.com^$important
+@@||utoken.umeng.com^$important
+@@||tnc3-bjlgy.zijieapi.com^$important
+@@||api-access.pangolin-sdk-toutiao.com^$important
+@@||gromore.pangolin-sdk-toutiao.com^$important
+@@||log-api.pangolin-sdk-toutiao.com^$important
+@@||tobapplog.ctobsnssdk.com^$important
+@@||open.e.kuaishou.com^$important
+@@||toblog.ctobsnssdk.com^$important
+@@||umengacs.m.taobao.com^$important
+@@||umengjmacs.m.taobao.com^$important
+@@||gdfp.gifshow.com^$important
+@@||log-api.pangolin-sdk-toutiao-b.com^$important
+@@||sf3-fe-tos.pglstatp-toutiao.com^$important
+@@||amdcopen.m.taobao.com^$important
+@@||p26-be-pack-sign.pglstatp-toutiao.com^$important
+@@||p6-be-pack-sign.pglstatp-toutiao.com^$important
+#以上规则允许APPshare的大部分广告
+||cloudcontrol.ai.xiaomi.com^$important
+||screentime.comm.miui.com^$important
+#阻止小米云控和云端获取用户信息
+||vv.video.qq.com^$important
+||bkvv.video.qq.com^$important
+#疑似QQ空间广告
