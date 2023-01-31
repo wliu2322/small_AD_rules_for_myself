@@ -1,0 +1,68 @@
+!rules for ADGuard and ADGuardHome on Windows systems
+!Total lines: 68 latest
+
+@@||greasyfork.org^$important,document
+@@||app.clipchamp.com^$important,document
+@@||pc.woozooo.com^$important,document
+@@||pan.baidu.com^$important,document
+game.eroge.xyz###\35 cv87w > a:last-child
+game.eroge.xyz###\35 cv87w > a:first-child
+game.eroge.xyz###ydvz15
+game.eroge.xyz###m0vamb
+game.eroge.xyz###\38 stl6p
+game.eroge.xyz###v7dn1u
+game.eroge.xyz###\32 95b3d
+game.eroge.xyz###f908x8
+game.eroge.xyz###\38 wlsnk
+game.eroge.xyz###kufnkv
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap.left-loc-entry:nth-child(8)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(5)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(6)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(4)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(7)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(3)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > li.v-popover-wrap:nth-child(2)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > li.v-popover-wrap:nth-child(4)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > li.right-entry-item.right-entry-item--upload:last-child
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > li.right-entry-item:nth-child(7)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(3)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(4)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(5)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(6)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(7)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.v-popover-wrap:nth-child(2)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.v-popover-wrap:nth-child(6)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.right-entry-item:nth-child(7)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.right-entry-item.right-entry-item--upload:last-child
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(5)
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(3)
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(4)
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(6)
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(7)
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.right-entry-item.right-entry-item--upload:last-child
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.right-entry-item:nth-child(7)
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.v-popover-wrap:nth-child(2)
+t.bilibili.com###bili-header-container > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(3)
+t.bilibili.com###bili-header-container > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(4)
+t.bilibili.com###bili-header-container > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(5)
+t.bilibili.com###bili-header-container > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(6)
+t.bilibili.com###bili-header-container > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(7)
+t.bilibili.com###bili-header-container > div.bili-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.right-entry-item.right-entry-item--upload:last-child
+t.bilibili.com###bili-header-container > div.bili-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.right-entry-item:nth-child(7)
+t.bilibili.com###bili-header-container > div.bili-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.v-popover-wrap:nth-child(2)
+bilibili.com###live_recommand_report
+bilibili.com###activity_vote
+bilibili.com###reco_list > div.rec-list:first-child > div.video-page-special-card-small:first-child
+bilibili.com###app > div.video-container-v1:nth-child(4) > div.right-container.is-in-large-ab:nth-child(2) > div.right-container-inner.scroll-sticky > a.ad-report.video-card-ad-small:nth-child(6)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar.slide-down:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(2)
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.xs_sm.recommended-container_floor-aside > div.is-version8.container:first-child > div.feed-card:nth-child(7)
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.xs_sm.recommended-container_floor-aside > div.is-version8.container:first-child > div.bili-video-card.is-rcmd:nth-child(31)
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.xs_sm.recommended-container_floor-aside > div.is-version8.container:first-child > div.bili-video-card.is-rcmd:nth-child(42)
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.xs_sm.recommended-container_floor-aside > div.is-version8.container:first-child > div.bili-video-card.is-rcmd:nth-child(54)
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.xs_sm.recommended-container_floor-aside > div.is-version8.container:first-child > div.bili-video-card.is-rcmd:nth-child(66)
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.xs_sm.recommended-container_floor-aside > div.is-version8.container:first-child > div.bili-video-card.is-rcmd:nth-child(79)
+@@||portal.azure.com^$important,document
+user.qzone.qq.com###leftMenu > div.mod-side-nav.mod-side-nav-recently-used:nth-child(2)
+user.qzone.qq.com###QM_Container_3 > div.fn_accessLog_tips.bg2.bor2:nth-child(2)
+user.qzone.qq.com###tb_app_li
+@@||github.com^$important,document
