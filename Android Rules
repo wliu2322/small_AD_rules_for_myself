@@ -1,9 +1,7 @@
 !Title: ADGuardHome_rules_for_myself
-!Version: 01
-!Homepage: 
 !!!note! This rule does not apply to ADGuard.
 !!!This list only applies to "AdGuard Home".
-!Total lines: 36 latest
+!Total lines: 34 latest
 
 @@||worldwide.sogou.com^$important
 #允许搜狗输入法加载皮肤界面，不少广告拦截规则会把搜狗输入法的皮肤网络请求屏蔽掉
