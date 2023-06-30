@@ -1,3 +1,8 @@
+!Title: ADGuardHome_rules_for_myself
+!!!note! This rule does not apply to ADGuard Home。
+!!!This list only applies to AdGuard.
+!Total lines: 111 latest
+
 @@||app.clipchamp.com^$important,document
 @@||pc.woozooo.com^$important,document
 @@||pan.baidu.com^$important,document
