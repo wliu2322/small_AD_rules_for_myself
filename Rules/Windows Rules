@@ -1,7 +1,3 @@
-!rules for ADGuard and ADGuardHome on Windows systems
-!Total lines: 85 latest
-
-@@||greasyfork.org^$important,document
 @@||app.clipchamp.com^$important,document
 @@||pc.woozooo.com^$important,document
 @@||pan.baidu.com^$important,document
@@ -83,4 +79,28 @@ bilibili.com###bili-header-container > div.bili-header > div.bili-header__bar.mi
 bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.xs_sm.recommended-container_floor-aside > div.is-version8.container:first-child > div.bili-video-card.is-rcmd:nth-child(18)
 bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.xs_sm.recommended-container_floor-aside > div.is-version8.container:first-child > div.bili-video-card.is-rcmd:nth-child(30)
 bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.xs_sm.recommended-container_floor-aside > div.is-version8.container:first-child > div.bili-video-card.is-rcmd:nth-child(43)
-
+@@||210.26.0.56^$important,document
+@@||10.0.10.18^$important,document
+bilibili.com###reco_list > div.rec-list:nth-child(2) > div.video-page-game-card-small:first-child
+jingyan.baidu.com###exp-article > div.wgt-feeds-video:nth-child(4) > div.clearfix.feeds-video-box:nth-child(5)
+jingyan.baidu.com###exp-article > div.wgt-feeds-video:nth-child(4) > div.f-light.feeds-video-one-view:last-child
+jingyan.baidu.com###fresh-share-exp-e
+jingyan.baidu.com###aside > div.wgt-income-money:first-child
+bilibili.com###bannerAd
+bilibili.com###app > div.video-container-v1:nth-child(3) > div.right-container.is-in-large-ab:nth-child(2) > div.right-container-inner.scroll-sticky > a.ad-report.video-card-ad-small:nth-child(6)
+bilibili.com###right-bottom-banner
+bilibili.com###app > div.video-container-v1:nth-child(3) > div.right-container.is-in-large-ab:nth-child(2) > div.right-container-inner.scroll-sticky > div.pop-live-small-mode.part-undefined:last-child
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.xs_sm.recommended-container_floor-aside > div.is-version8.container:first-child > div.bili-video-card.is-rcmd:nth-child(19)
+@@||pan.quark.cn^$important,document
+@@||ump.ems.com.cn^$important,document
+@@||www.msftconnecttest.com^$important,document
+bilibili.com###comment > div.comment > div.bili-comment.browser-pc > div.comment-container > div.reply-header:first-child > div.reply-notice:first-child
+baike.baidu.com###J-video-list > div.second-video-item.J-second-video-item.wgt_marquee_unit.image-type:first-child
+baike.baidu.com###J-second-wrapper
+bilibili.com###app > div.video-container-v1:nth-child(4) > div.right-container.is-in-large-ab:nth-child(2) > div.right-container-inner.scroll-sticky > div.pop-live-small-mode.part-undefined:last-child
+@@||a335.sbs^$important
+@@||www.gladtbam.top^$important,document
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.recommended-container_floor-aside > div.container.is-version8:first-child > div.feed-card:nth-child(7)
+@@||passport.elecfans.com^$important,document
+@@||dl.3dmgame.com^$important,document
+bilibili.com###app > div.video-container-v1:nth-child(2) > div.right-container.is-in-large-ab:nth-child(2) > div.right-container-inner.scroll-sticky > div.pop-live-small-mode.part-undefined:last-child
