@@ -5,6 +5,7 @@
 
 @@||worldwide.sogou.com^$important
 #允许搜狗输入法加载皮肤界面，不少广告拦截规则会把搜狗输入法的皮肤网络请求屏蔽掉
+#-----分界线-----
 @@||ulogs.umengcloud.com^$important
 @@||mssdk-bu.bytedance.com^$important
 @@||ulogs.umeng.com^$important
@@ -26,9 +27,12 @@
 @@||p26-be-pack-sign.pglstatp-toutiao.com^$important
 @@||p6-be-pack-sign.pglstatp-toutiao.com^$important
 #以上规则允许APPshare的大部分广告
+#-----分界线-----
 ||cloudcontrol.ai.xiaomi.com^$important
 ||screentime.comm.miui.com^$important
 #阻止小米云控和云端获取用户信息
+#-----分界线-----
 ||vv.video.qq.com^$important
 ||bkvv.video.qq.com^$important
 #疑似QQ空间广告
+#-----分界线-----
