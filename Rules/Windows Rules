@@ -1,8 +1,12 @@
 !Title: ADGuardHome_rules_for_myself
 !!!note! This rule does not apply to ADGuard Home。
 !!!This list only applies to AdGuard.
-!Total lines: 111 latest
 
+checkadblock.ru###app > div.section-container.svelte-auebxm:nth-child(5) > div.block.svelte-t54epl.section:nth-child(3) > div.content.svelte-t54epl:last-child > div.block.svelte-t54epl.service:last-child > div.content.svelte-t54epl:last-child > ol.check-list.svelte-auebxm > li.svelte-700pcr:last-child > div.includeWrapper.svelte-700pcr:last-child
+!Title: ADGuardHome_rules_for_myself
+!!!note! This rule does not apply to ADGuard Home。
+!!!This list only applies to AdGuard.
+!Total lines: 111 latest
 @@||app.clipchamp.com^$important,document
 @@||pc.woozooo.com^$important,document
 @@||pan.baidu.com^$important,document
@@ -66,7 +70,6 @@ bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nt
 user.qzone.qq.com###leftMenu > div.mod-side-nav.mod-side-nav-recently-used:nth-child(2)
 user.qzone.qq.com###QM_Container_3 > div.fn_accessLog_tips.bg2.bor2:nth-child(2)
 user.qzone.qq.com###tb_app_li
-@@||github.com^$important,document
 @@||web.telegram.org^$important,document
 bilibili.com###reco_list > div.rec-list:nth-child(2) > div.video-page-special-card-small:first-child
 game.eroge.xyz###r2jt86
@@ -109,3 +112,20 @@ bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nt
 @@||passport.elecfans.com^$important,document
 @@||dl.3dmgame.com^$important,document
 bilibili.com###app > div.video-container-v1:nth-child(2) > div.right-container.is-in-large-ab:nth-child(2) > div.right-container-inner.scroll-sticky > div.pop-live-small-mode.part-undefined:last-child
+hur4z2.ccgg8.com###index > article:nth-child(9)
+hur4z2.ccgg8.com###index > article:nth-child(3)
+hur4z2.ccgg8.com###index > article:nth-child(5)
+hur4z2.ccgg8.com###index > article:nth-child(7)
+hur4z2.ccgg8.com###index > article:nth-child(11)
+@@||tool.liumingye.cn^$important,document
+@@||www.59bt.com^$important,document
+jingyan.baidu.com###exp-article > div.wgt-douwan-video.wgt-douwan-video-special:nth-child(9)
+@@||a4k.net^$important,document
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(2)
+checkadblock.ru###app > div.section-container.svelte-auebxm:nth-child(5) > div.block.svelte-t54epl.section:nth-child(3) > div.content.svelte-t54epl:last-child > div.block.svelte-t54epl.service:nth-child(3) > div.content.svelte-t54epl:last-child > ol.check-list.svelte-auebxm > li.svelte-700pcr:last-child > div.includeWrapper.svelte-700pcr:last-child
+checkadblock.ru###app > div.section-container.svelte-auebxm:nth-child(5) > div.block.svelte-t54epl.section:nth-child(3) > div.content.svelte-t54epl:last-child > div.block.svelte-t54epl.service:nth-child(2) > div.content.svelte-t54epl:last-child > ol.check-list.svelte-auebxm > li.svelte-700pcr:last-child > div.includeWrapper.svelte-700pcr:last-child
+checkadblock.ru###app > div.section-container.svelte-auebxm:nth-child(5) > div.block.svelte-t54epl.section:first-child > div.content.svelte-t54epl:last-child > div.block.svelte-t54epl.service:nth-child(2) > div.content.svelte-t54epl:last-child > ol.check-list.svelte-auebxm > li.svelte-700pcr:last-child > div.includeWrapper.svelte-700pcr:last-child
+checkadblock.ru###app > div.section-container.svelte-auebxm:nth-child(5) > div.block.svelte-t54epl.section:first-child > div.content.svelte-t54epl:last-child > div.block.svelte-t54epl.service:nth-child(3) > div.content.svelte-t54epl:last-child > ol.check-list.svelte-auebxm > li.svelte-700pcr:last-child > div.includeWrapper.svelte-700pcr:last-child
+checkadblock.ru###app > div.section-container.svelte-auebxm:nth-child(5) > div.block.svelte-t54epl.section:first-child > div.content.svelte-t54epl:last-child > div.block.svelte-t54epl.service:last-child > div.content.svelte-t54epl:last-child > ol.check-list.svelte-auebxm > li.svelte-700pcr:last-child > div.includeWrapper.svelte-700pcr:last-child
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.recommended-container_floor-aside > div.container.is-version8:first-child > div.feed-card:nth-child(8)
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.xs_sm.recommended-container_floor-aside > div.container.is-version8:first-child > div.feed-card:nth-child(6)
