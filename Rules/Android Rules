@@ -1,10 +1,10 @@
 !Title: ADGuardHome_rules_for_myself
 !!!note! This rule does not apply to ADGuard.
 !!!This list only applies to "AdGuard Home".
-!Total lines: 34 latest
 
+@@||v2.get.sogou.com^$important
 @@||worldwide.sogou.com^$important
-#允许搜狗输入法加载皮肤界面，不少广告拦截规则会把搜狗输入法的皮肤网络请求屏蔽掉
+#允许搜狗输入法加载皮肤界面和其他联网功能（例如词库），不少广告拦截规则会把搜狗输入法的皮肤网络请求屏蔽掉
 #-----分界线-----
 @@||ulogs.umengcloud.com^$important
 @@||mssdk-bu.bytedance.com^$important
@@ -26,13 +26,18 @@
 @@||amdcopen.m.taobao.com^$important
 @@||p26-be-pack-sign.pglstatp-toutiao.com^$important
 @@||p6-be-pack-sign.pglstatp-toutiao.com^$important
-#以上规则允许APPshare的大部分广告
+#以上规则允许APPshare的大部分广告，不需要则可删去
 #-----分界线-----
 ||cloudcontrol.ai.xiaomi.com^$important
 ||screentime.comm.miui.com^$important
+||api.installer.xiaomi.com^$important
 #阻止小米云控和云端获取用户信息
 #-----分界线-----
 ||vv.video.qq.com^$important
 ||bkvv.video.qq.com^$important
 #疑似QQ空间广告
+#-----分界线-----
+||dspsdk.pinduoduo.com^$important
+||webcast-open.douyin.com^$important
+#补充一些国产安卓应用的开屏广告屏蔽规则
 #-----分界线-----
