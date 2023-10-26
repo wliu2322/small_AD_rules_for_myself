@@ -1,43 +1,26 @@
 !Title: ADGuardHome_rules_for_myself
 !!!note! This rule does not apply to ADGuard.
 !!!This list only applies to "AdGuard Home".
+#分界线
+#中间这一行之后补充推荐使用的规则的连接
+#分界线
 
+#允许搜狗输入法加载皮肤界面和其他联网功能（例如词库），不少广告拦截规则会把搜狗输入法的皮肤网络请求屏蔽掉
 @@||v2.get.sogou.com^$important
 @@||worldwide.sogou.com^$important
-#允许搜狗输入法加载皮肤界面和其他联网功能（例如词库），不少广告拦截规则会把搜狗输入法的皮肤网络请求屏蔽掉
 #-----分界线-----
-@@||ulogs.umengcloud.com^$important
-@@||mssdk-bu.bytedance.com^$important
-@@||ulogs.umeng.com^$important
-@@||tnc3-aliec2.zijieapi.com^$important
-@@||utoken.umeng.com^$important
-@@||tnc3-bjlgy.zijieapi.com^$important
-@@||api-access.pangolin-sdk-toutiao.com^$important
-@@||gromore.pangolin-sdk-toutiao.com^$important
-@@||log-api.pangolin-sdk-toutiao.com^$important
-@@||tobapplog.ctobsnssdk.com^$important
-@@||open.e.kuaishou.com^$important
-@@||toblog.ctobsnssdk.com^$important
-@@||umengacs.m.taobao.com^$important
-@@||umengjmacs.m.taobao.com^$important
-@@||gdfp.gifshow.com^$important
-@@||log-api.pangolin-sdk-toutiao-b.com^$important
-@@||sf3-fe-tos.pglstatp-toutiao.com^$important
-@@||amdcopen.m.taobao.com^$important
-@@||p26-be-pack-sign.pglstatp-toutiao.com^$important
-@@||p6-be-pack-sign.pglstatp-toutiao.com^$important
-#以上规则允许APPshare的大部分广告，不需要则可删去
-#-----分界线-----
+#阻止小米云控和云端获取、检测用户信息
 ||cloudcontrol.ai.xiaomi.com^$important
 ||screentime.comm.miui.com^$important
 ||api.installer.xiaomi.com^$important
-#阻止小米云控和云端获取用户信息
 #-----分界线-----
-||vv.video.qq.com^$important
-||bkvv.video.qq.com^$important
-#疑似QQ空间广告
+#爱玩机工具箱的服务器地址
+@@||api.byyang.top^$important
+@@||api.pjnoeru.top^$important
 #-----分界线-----
-||dspsdk.pinduoduo.com^$important
+#以下将对一些应用软件开屏广告做出补充
+||qh-material.taobao.com^$important
 ||webcast-open.douyin.com^$important
-#补充一些国产安卓应用的开屏广告屏蔽规则
-#-----分界线-----
+||dspsdk.pinduoduo.com^$importan
+||adsdkapi.dxys.pro^$important
+#当想要展示Appshare开屏广告的时候，把上面的规则做一下修改，在“||”前加上“@@”即可（完整的开屏广告需要另外自行添加放行规则）
