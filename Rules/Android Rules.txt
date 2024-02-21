@@ -2,25 +2,31 @@
 !!!note! This rule does not apply to ADGuard.
 !!!This list only applies to "AdGuard Home".
 #分界线
-#中间这一行之后补充推荐使用的规则的连接
-#分界线
 
 #允许搜狗输入法加载皮肤界面和其他联网功能（例如词库），不少广告拦截规则会把搜狗输入法的皮肤网络请求屏蔽掉
 @@||v2.get.sogou.com^$important
 @@||worldwide.sogou.com^$important
-#-----分界线-----
 #阻止小米云控和云端获取、检测用户信息
 ||cloudcontrol.ai.xiaomi.com^$important
 ||screentime.comm.miui.com^$important
 ||api.installer.xiaomi.com^$important
-#-----分界线-----
-#爱玩机工具箱的服务器地址
+#爱玩机工具箱的服务器地址误杀
 @@||api.byyang.top^$important
 @@||api.pjnoeru.top^$important
-#-----分界线-----
-#以下将对一些应用软件开屏广告做出补充
-||qh-material.taobao.com^$important
-||webcast-open.douyin.com^$important
-||dspsdk.pinduoduo.com^$importan
-||adsdkapi.dxys.pro^$important
-#当想要展示Appshare开屏广告的时候，把上面的规则做一下修改，在“||”前加上“@@”即可（完整的开屏广告需要另外自行添加放行规则）
+#对magisk中文网的误杀
+@@||cdn.magiskcn.com^$important
+@@||magiskcn.com^$important
+#QQ空间动态图片
+@@||m.qpic.cn^$important
+#小米桌面小部件网络请求放行
+@@||store.assistant.miui.com^$important
+#3DM发送验证码、登录等功能
+@@||code.sms.mob.com^$important
+@@||log.sms.mob.com^$important
+@@||dl.fucnm.com^$important
+#小米设置中对设备详细参数的误杀
+@@||port.sec.miui.com^$important
+#小米相册云同步误杀
+@@||galleryapi.micloud.xiaomi.net^$important
+#酷狗音乐误杀
+@@||gateway3.kugou.com^$important
