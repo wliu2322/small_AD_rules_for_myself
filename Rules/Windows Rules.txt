@@ -1,29 +1,73 @@
 !Title: ADGuardHome_rules_for_myself
-!!!note! This rule does not apply to ADGuard Home。
-!!!This list only applies to AdGuard.
+!!!Note! These rules do not apply to ADGuard Home
+!!!This list only applies to AdGuard
 
-@@||210.26.0.92^$important,document
 @@||pan.baidu.com^$important,document
 @@||url63.ctfile.com^$important,document
 @@||login.sankakucomplex.com^$important,document
+@@||www.paypal.com^$important,document
+t.bilibili.com###bili-header-container > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(2)
+t.bilibili.com###bili-header-container > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(3)
+t.bilibili.com###bili-header-container > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(5)
+t.bilibili.com###bili-header-container > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(6)
+t.bilibili.com###bili-header-container > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(4)
+t.bilibili.com###bili-header-container > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(7)
+t.bilibili.com###bili-header-container > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.right-entry-item.right-entry-item--upload:last-child
+t.bilibili.com###bili-header-container > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.right-entry-item:nth-child(7)
+t.bilibili.com###bili-header-container > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > div.vip-wrap:nth-child(2)
+t.bilibili.com###bili-header-container > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.v-popover-wrap.right-entry__outside.right-entry--message:nth-child(3)
+blog.csdn.net##div.passport-login-container:last-child
+blog.csdn.net##div.passport-login-tip-container.false:nth-child(54)
+blog.csdn.net##div.passport-login-container:nth-child(56)
+blog.csdn.net##div.passport-login-tip-container.false:nth-child(55)
+blog.csdn.net###csdn-toolbar > div.toolbar-inside.exp3 > div.toolbar-container > div.toolbar-container-right:last-child > div.toolbar-btns.onlyUser > div.toolbar-btn.toolbar-btn-vip.csdn-toolbar-fl:nth-child(2)
+zhuanlan.zhihu.com##div:nth-child(26)
+blog.csdn.net##div.passport-login-tip-container.false:last-child
+blog.csdn.net##div.passport-login-container:nth-child(46)
+blog.csdn.net##div.passport-login-container:nth-child(51)
+@@||auth.smartedu.cn^$important,document
+@@||www.smartedu.cn^$important,document
+@@||user.smartedu.cn^$important,document
+@@||kns.cnki.net^$important,document
+@@||weiban.mycourse.cn^$important,document
+@@||210.26.0.92^$important,document
+user.qzone.qq.com###leftMenu > div.mod-side-nav.mod-side-nav-recently-used:nth-child(2)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(2)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(3)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(4)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(6)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap.left-loc-entry:nth-child(8)
 bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(7)
 bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(5)
-bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(6)
-bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(4)
-bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(3)
-bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(2)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > li.right-entry-item.right-entry-item--upload:last-child
 bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > li.right-entry-item:nth-child(7)
 bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > div.vip-wrap:nth-child(2)
-bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > li.right-entry-item.right-entry-item--upload:last-child
-bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > li.v-popover-wrap.right-entry__outside.right-entry--message:nth-child(3)
-bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(3)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(2)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(3)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.right-entry-item.right-entry-item--upload:last-child
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.right-entry-item:nth-child(7)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > div.vip-wrap:nth-child(2)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(7)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(6)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(5)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(4)
 bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(2)
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(3)
 bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(4)
-bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(5)
-bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(6)
 bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(7)
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(6)
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(5)
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > div.vip-wrap:nth-child(2)
 bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.right-entry-item.right-entry-item--upload:last-child
 bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.right-entry-item:nth-child(7)
-bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > div.vip-wrap:nth-child(2)
-bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.v-popover-wrap.right-entry__outside.right-entry--message:nth-child(3)
-bilibili.com###arc_toolbar_report > div.video-toolbar-left:first-child > div.video-toolbar-left-main:first-child > div.toolbar-left-item-wrap:last-child
+bilibili.com###activity_vote
+bilibili.com###comment > div.comment > div.bili-comment.browser-pc > div.comment-container > div.reply-header:first-child > div:first-child
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap.left-loc-entry:nth-child(9)
+checkadblock.ru###app > div.section-container.svelte-ln6iwr:nth-child(5) > div.block.svelte-dpupje.section:nth-child(3) > div.content.svelte-dpupje:last-child > div.block.svelte-dpupje.service:nth-child(2) > div.content.svelte-dpupje:last-child > ol.check-list.svelte-ln6iwr > li.svelte-1h1i54z:last-child > div.includeWrapper.svelte-1h1i54z:last-child
+checkadblock.ru###app > div.section-container.svelte-ln6iwr:nth-child(5) > div.block.svelte-dpupje.section:nth-child(3) > div.content.svelte-dpupje:last-child > div.block.svelte-dpupje.service:nth-child(3) > div.content.svelte-dpupje:last-child > ol.check-list.svelte-ln6iwr > li.svelte-1h1i54z:last-child > div.includeWrapper.svelte-1h1i54z:last-child
+checkadblock.ru###app > div.section-container.svelte-ln6iwr:nth-child(5) > div.block.svelte-dpupje.section:nth-child(3) > div.content.svelte-dpupje:last-child > div.block.svelte-dpupje.service:last-child > div.content.svelte-dpupje:last-child > ol.check-list.svelte-ln6iwr > li.svelte-1h1i54z:last-child > div.includeWrapper.svelte-1h1i54z:last-child
+blog.csdn.net##div.passport-login-tip-container.false:nth-child(12)
+blog.csdn.net##div:nth-child(56)
+@@||www.123pan.com^$important,document
+blog.csdn.net##div.passport-login-tip-container.false:nth-child(58)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:last-child
