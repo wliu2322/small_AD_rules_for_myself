@@ -52,4 +52,11 @@
 @@||api.comm.miui.com^$important
 #小米画报
 @@||w.pandora.xiaomi.com^$important
+#小米负一屏卡片展示
+@@||verca.xpa.assistant.miui.com^$important
+@@||api.assistant.miui.com^$important
+#新版本B站主页
+@@||app.bilibili.com^$important
+#淘宝商品详情页
+@@||trade-acs.m.taobao.com^$important
 #
