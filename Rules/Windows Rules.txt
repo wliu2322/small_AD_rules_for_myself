@@ -2,6 +2,7 @@
 !!!Note! These rules do not apply to ADGuard Home
 !!!This list only applies to AdGuard
 
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header:first-child > ul.left-entry:first-child > li.v-popover-wrap.left-loc-entry:nth-child(8)
 @@||pan.baidu.com^$important,document
 @@||url63.ctfile.com^$important,document
 @@||login.sankakucomplex.com^$important,document
@@ -71,3 +72,14 @@ blog.csdn.net##div:nth-child(56)
 @@||www.123pan.com^$important,document
 blog.csdn.net##div.passport-login-tip-container.false:nth-child(58)
 bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:last-child
+bilibili.com###arc_toolbar_report > div.video-toolbar-left:first-child > div.video-toolbar-left-main:first-child > div.toolbar-left-item-wrap:last-child
+blog.csdn.net###content_views > p:nth-child(3)
+@@||xinghuo.xfyun.cn^$important,document
+@@||chatgpt.com^$important,document
+jingyan.baidu.com###exp-article > div.wgt-feeds-video:nth-child(4) > div.clearfix.feeds-video-box:nth-child(5)
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header:first-child > ul.left-entry:first-child > li.v-popover-wrap.left-loc-entry:nth-child(9)
+bilibili.com##div.desktop-download-tip:nth-child(17)
+@@||doc.idjams.top^$important,document
+@@||www.mmhtml.com^$important,document
+@@||www.microsoft.com^$important,document
+@@||login-pipl.nvgs.nvidia.cn^$important,document
